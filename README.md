@@ -1,6 +1,6 @@
 # Hi there, I'm Deeksha Hareesha Kulal! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=AI%2FML+Engineer+%7C+Data+Scientist+Researcher;NLP%2C+LLMs%2C+Adversarial+ML;Open+to+collaboration+and+research+opportunities)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=AI%2FML+Engineer+%7C+Data+Scientist+%7C+Researcher;NLP%2C+LLMs%2C+Adversarial+ML;Open+to+collaboration+and+research+opportunities)
 
 ## 👩‍💻 About Me
 🎓 MS in Electrical and Computer Engineering @ Purdue University Northwest  
